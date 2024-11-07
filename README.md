@@ -11,7 +11,7 @@ A steganography technique involves hiding sensitive information within an ordina
 
 ## Video Link
 
-[Video Demo of Steganography](https://www.loom.com/share/13fd473ee97d455394510e17e2d34722): Video Demo
+Video Demo of Steganography: [Video Demo](https://www.loom.com/share/13fd473ee97d455394510e17e2d34722)
 
 
 ## Technologies Used
