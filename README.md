@@ -53,7 +53,7 @@ And then run the unmerge2 function to get the initial image after merging.
 
 | Original Image | Image After Encoding |
 | :---: | :---: |
-| <img src ="images/originalimage.JPG"  width=400 height=300>  | <img src ="images/finalimage.JPG"  width=400 height=300> |
+| <img src ="images/download.jpg"  width=400 height=300>  | <img src ="images/stegano_final.png"  width=400 height=300> |
 
 <br>
 
@@ -63,16 +63,17 @@ Image 1 is merged on Image 2..
 
 | Cover Image | Image to be Merged |
 | :---: | :---: |
-| <img src ="images/orig.PNG"  width=400 height=300/> |  <img src='images/orig2.PNG' width=400 height=300/> |
+| <img src ="images/nature1.png"  width=400 height=300/> |  <img src='images/nature.png' width=400 height=300/> |
 
 <br>
 
 | Merged Image | Unmerged Image |
 | :---: | :---: |
-| <img src ="images/final_merge.PNG"  width=400 height=300/> |  <img src='images/final.PNG' width=400 height=300/> |
+| <img src ="images/merged2.jpg"  width=400 height=300/> |  <img src='images/final.PNG' width=400 height=300/> |
 
 
 ## Author 
-```Toran V Athani
+```
+Toran V Athani
 ```
 
