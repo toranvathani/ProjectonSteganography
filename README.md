@@ -9,6 +9,11 @@ A steganography technique involves hiding sensitive information within an ordina
 [Image Steganography](https://colab.research.google.com/drive/1olDBDtKcBvtfTCyU7Dv6TtDu1BTPwtHE#scrollTo=XEkZE1OcX-PL): Hiding an Image inside an Image.
 
 
+## Video Link
+
+[Video Demo of Steganography](https://www.loom.com/share/13fd473ee97d455394510e17e2d34722): Video Demo
+
+
 ## Technologies Used
 ```
 1. Open CV
